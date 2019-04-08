@@ -1,5 +1,5 @@
 # loanapi
-Loan Management System and daily collection Api For Financial institution who aren't yet a Micro-finance or Commercial Bank. 
+Loan Management System and daily collection Api For Financial institutions. 
 
 [![GitHub issues](https://img.shields.io/github/issues/harmonizerblinks/loanapi.svg?logo=appveyor&longCache=true)](https://github.com/harmonizerblinks/loanapi/issues)
 [![GitHub stars](https://img.shields.io/github/stars/harmonizerblinks/loanapi.svg?logo=appveyor&longCache=true)](https://github.com/harmonizerblinks/loanapi/stargazers)
